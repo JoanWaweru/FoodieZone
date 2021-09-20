@@ -4,11 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/JOAN/AndroidStudioProjects/Foodiezone/app/src/main/res/layout/activity_add_restaurants.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/JOAN/AndroidStudioProjects/Foodiezone/app/src/main/res/layout/activity_admin_sign_up.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/JOAN/AndroidStudioProjects/Foodiezone/app/src/main/res/layout/activity_administrator_sign_in.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/JOAN/AndroidStudioProjects/Foodiezone/app/src/main/res/layout/activity_client_user_sign_in.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/JOAN/AndroidStudioProjects/Foodiezone/app/src/main/res/layout/activity_client_user_sign_up.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/JOAN/AndroidStudioProjects/Foodiezone/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/JOAN/AndroidStudioProjects/Foodiezone/app/src/main/res/layout/activity_restaurant_home.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/JOAN/AndroidStudioProjects/Foodiezone/app/src/main/res/layout/activity_restaurant_sign_in.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/JOAN/AndroidStudioProjects/Foodiezone/app/src/main/res/layout/activity_restaurant_sign_up.xml" value="0.12771739130434784" />
       </map>
     </option>
   </component>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.project.foodiezone">
 
     <application
@@ -14,6 +15,14 @@
         <activity android:name=".AdministratorUser.AdministratorSignInActivity" />
         <activity android:name=".RestaurantUser.RestaurantSignInActivity" />
         <activity android:name=".ClientUser.ClientUserSignInActivity" />
+        <activity android:name=".ClientUser.ClientUserSignUpActivity">
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+        </activity>
+
         <activity android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
